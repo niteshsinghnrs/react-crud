@@ -1,0 +1,64 @@
+{
+    "columns": [
+        {
+            "text": "Edit",
+            "headerStyle":{"width":"50px","fontSize":"0.75rem"},
+            "dataField": ""
+        },
+        {
+            "text": "Delete",
+            "headerStyle":{"width":"70px","fontSize":"0.75rem"},
+            "dataField": ""
+        },
+        {
+            "dataField": "id",
+            "text": "ID",
+            "headerStyle":{"width":"50px","fontSize":"0.75rem"}
+
+            
+        },
+        {
+            "dataField": "name",
+            "text": "Name",
+            "sort": true,
+            "headerStyle":{"width":"150px","fontSize":"0.75rem"}
+        },
+        {
+            "dataField": "midName",
+            "text": "Midd Name",
+            "sort": true,
+            "headerStyle":{"width":"100px","fontSize":"0.75rem"}
+        },
+        {
+            "dataField": "lastName",
+            "text": "Last Name",
+            "sort": true,
+            "headerStyle":{"width":"100px","fontSize":"0.75rem"}
+        },
+        {
+            "dataField": "mobNumber",
+            "text": "Mobile No",
+            "sort": true,
+            "headerStyle":{"width":"120px","fontSize":"0.75rem"}
+        },
+        {
+            "dataField": "gender",
+            "text": "Gender",
+            "sort": true,
+            "headerStyle":{"width":"100px","fontSize":"0.75rem"}
+        },
+        {
+            "dataField": "status",
+            "text": "Status",
+            "sort": true,
+            "headerStyle":{"width":"100px","fontSize":"0.75rem"}
+        },
+        {
+            "dataField": "email",
+            "text": "Email",
+            "sort": true,
+            "headerStyle":{"width":"250px","fontSize":"0.75rem"}
+
+        }
+    ]
+}
